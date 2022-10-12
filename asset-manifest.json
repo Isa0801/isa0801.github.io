@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/isacoder/static/css/main.66c5440c.css",
-    "main.js": "/isacoder/static/js/main.cb961fc2.js",
-    "static/js/787.b88570ae.chunk.js": "/isacoder/static/js/787.b88570ae.chunk.js",
-    "static/media/FallingStars5Videvo.mov": "/isacoder/static/media/FallingStars5Videvo.a17e9f9ee29903da9ff0.mov",
-    "static/media/agstu_logo.png": "/isacoder/static/media/agstu_logo.4fc3d3026066885ba6da.png",
-    "static/media/Web-Developer-Flatline.svg": "/isacoder/static/media/Web-Developer-Flatline.b296e267a8f95426c06d952bb5022c13.svg",
-    "static/media/undraw_Graduation_re_gthn.svg": "/isacoder/static/media/undraw_Graduation_re_gthn.8bd84868e6fb0d62d94689f4b7f0b975.svg",
-    "static/media/undraw_Resume_folder_re_e0bi.svg": "/isacoder/static/media/undraw_Resume_folder_re_e0bi.b62d924b3e705185bbd661e75c915309.svg",
-    "static/media/ec_logo.svg": "/isacoder/static/media/ec_logo.9cde2367ec855a8edd5d2cbd1e7fd140.svg",
-    "index.html": "/isacoder/index.html",
-    "main.66c5440c.css.map": "/isacoder/static/css/main.66c5440c.css.map",
-    "main.cb961fc2.js.map": "/isacoder/static/js/main.cb961fc2.js.map",
-    "787.b88570ae.chunk.js.map": "/isacoder/static/js/787.b88570ae.chunk.js.map"
+    "main.css": "/static/css/main.66c5440c.css",
+    "main.js": "/static/js/main.ebdb2058.js",
+    "static/js/787.5dbbd0e4.chunk.js": "/static/js/787.5dbbd0e4.chunk.js",
+    "static/media/FallingStars5Videvo.mov": "/static/media/FallingStars5Videvo.a17e9f9ee29903da9ff0.mov",
+    "static/media/agstu_logo.png": "/static/media/agstu_logo.4fc3d3026066885ba6da.png",
+    "static/media/Web-Developer-Flatline.svg": "/static/media/Web-Developer-Flatline.b296e267a8f95426c06d952bb5022c13.svg",
+    "static/media/undraw_Graduation_re_gthn.svg": "/static/media/undraw_Graduation_re_gthn.8bd84868e6fb0d62d94689f4b7f0b975.svg",
+    "static/media/undraw_Resume_folder_re_e0bi.svg": "/static/media/undraw_Resume_folder_re_e0bi.b62d924b3e705185bbd661e75c915309.svg",
+    "static/media/ec_logo.svg": "/static/media/ec_logo.9cde2367ec855a8edd5d2cbd1e7fd140.svg",
+    "index.html": "/index.html",
+    "main.66c5440c.css.map": "/static/css/main.66c5440c.css.map",
+    "main.ebdb2058.js.map": "/static/js/main.ebdb2058.js.map",
+    "787.5dbbd0e4.chunk.js.map": "/static/js/787.5dbbd0e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66c5440c.css",
-    "static/js/main.cb961fc2.js"
+    "static/js/main.ebdb2058.js"
   ]
 }
